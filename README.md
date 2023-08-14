@@ -1,12 +1,6 @@
----
-
-<br></br>
-
 # <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
 
 <br></br>
-
-
 
 ---
 
