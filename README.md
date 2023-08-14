@@ -1,4 +1,4 @@
-#### <div style="text-align: center;"><h1><strong>**`Cryptocurrency Market Data Analytics`**</strong></h1></div>
+# <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
 
 <br></br>
 
