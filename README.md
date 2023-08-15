@@ -56,3 +56,23 @@ Select these cryptocurrencies because from 2015 to here they have sustained grow
 These selected cryptocurrencies are poised to offer valuable insights into the broader economic landscape and serve as a basis for strategic decision-making in the realm of financial services.
 
 ---
+
+---
+
+## <h1 align="center">**`Descriptive analysis:`**</h1>
+
+## <span style="color: #007ACC;"> Distribution in the coin market of the chosen ones: </span>
+
+<p align='center'><img src = 'src/output12.png' height = 600><p>
+
+## <span style="color: #007ACC;"> Evolution of the prices of Cryptocurrencies since its Appearance: </span>
+
+#### I separated them into a couple of graphs to visualize, the evolution of their respective prices because they have very wide scales uneven. What complicates and hinders the visualization.
+
+##### - <span style="color: #66A9FF;"> Solana:</span>,<span style="color: #66A9FF;"> Uniswap:</span>,<span style="color: #66A9FF;"> Chainlink:</span>,<span style="color: #66A9FF;"> Quant:</span>,<span style="color: #66A9FF;"> Axie infinity: </span>
+
+<p align='center'><img src = 'src/output.png' height = 600><p>
+
+##### - <span style="color: #66A9FF;"> Iota:</span>,<span style="color: #66A9FF;"> Cardano:</span>,<span style="color: #66A9FF;"> The Sandbox:</span>,<span style="color: #66A9FF;"> Chilix:</span>,<span style="color: #66A9FF;"> Decentraland: </span>
+
+<p align='center'><img src = 'src/output1.png' height = 600><p>
