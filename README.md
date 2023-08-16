@@ -4,6 +4,10 @@
 
 # <h1 align="CENTER">**`Cryptocurrency Market Data Analytics`**</h1>
 
+<p align='center'>
+<img src = 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/229742822/original/6388423c832dcdf24d20ec8a3d1a184d0e8c4fb0/be-your-personal-python-data-analyst.jpg' height = 200>
+<p>
+
 ---
 
 ## Technologies used in this project:
